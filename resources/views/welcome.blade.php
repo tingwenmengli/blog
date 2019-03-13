@@ -82,6 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     :)Laravel(:
+					2019/3/13
                 </div>
 
                 <div class="links">
